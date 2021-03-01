@@ -10,6 +10,8 @@ Copy `.env.example` to `.env` and change app url, app api url and database info.
 
 `php artisan key:generate` for generate app key.
 
+`php artisan jwt:secret` for generate jwt authenticate key.
+
 `php artisan migrate` for generate database.
 
 `npm install` and `npm run dev` for generate first time mix manifest, javascript and css files.
