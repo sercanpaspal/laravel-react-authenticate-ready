@@ -1,6 +1,6 @@
 ## About
 
-React in laravel project with laravel-mix. Sample or ready jwt authenticate ui for example and for boilerplate.
+React in laravel project with laravel-mix. Sample or ready jwt authenticate ui (chakra) for example and for boilerplate.
 
 ## Install
 
